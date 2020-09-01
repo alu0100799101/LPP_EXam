@@ -7,7 +7,7 @@ Rspec.decribe Plato do
 
 	before :all do 
 
-		@receta1 = Plato.new(1111,['Pollo',10,23,7],[2,50,5])
+		@receta1 = Plato.new(1111,['Paella',10,23,7],[2,50,5])
 
 	end
 	
